@@ -1,0 +1,24 @@
+@charset "utf-8";
+.row h1 {
+	color: skyblue;
+	text-align: center;
+	text-shadow: 2px 2px #000000;
+	font-family:Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
+}
+
+
+.header-pink{
+	color:pink;
+}
+.container-fluid p {
+	background-color: #EDA7E4;
+	text-align: center;
+	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
+}
+
+.row .col-md-12 h2 {
+	text-align: center;
+	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
+	color:pink;
+	text-shadow:2px 2px #000000;
+}
